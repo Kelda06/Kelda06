@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Keller</h1>
-![hello](https://user-images.githubusercontent.com/114884755/193532387-309f3e7a-e5ba-4a46-9c2a-d0cca18c5b9a.gif)
+<p>
+![hello](https://user-images.githubusercontent.com/114884755/193532517-280085ed-df01-4770-a95d-5e14340e359c.gif)
+</p>
 
 
 - 🌱 I’m currently learning **Java,Css**
