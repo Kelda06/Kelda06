@@ -4,7 +4,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Java,Css**
+- 🌱 I’m currently learning **Java,C++**
 
 - 📫 How to reach me **adam.bugatti@post.cz**
 
